@@ -1,5 +1,6 @@
 ---
 layout: home
+title: Home
 ---
 
 # Hello, Welcome to my academic portfolio 👋
