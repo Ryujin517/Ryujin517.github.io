@@ -1,7 +1,8 @@
 ---
 layout: home
-title: Joven D. Silagan
 ---
+
+# Joven D. Silagan
 
 # Hello, Welcome to my academic portfolio 👋
 
