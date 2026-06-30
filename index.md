@@ -2,8 +2,6 @@
 layout: home
 ---
 
-# Joven D. Silagan
-
 # Hello, Welcome to my academic portfolio 👋
 
 I am a graduating student pursuing a Bachelor of Science in Applied Mathematics with interests in:
